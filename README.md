@@ -6,6 +6,10 @@
 
 ## Setup
 
+# Use
+
+- ✅ Replit
+
 #### 1. Clone the repository.
 ```
 git clone https://github.com/HELLSNAKES/image-random-api.git
