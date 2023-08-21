@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-    <img src="./download (1).png" width="128" alt="" />
+    <img src="" width="128" alt="" />
 </div>
 
 # image-random-api
