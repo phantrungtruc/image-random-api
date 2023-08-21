@@ -4,7 +4,7 @@
 
 # Image Random API
 
-# Use
+## Use
 
 - ✅ Replit
 
