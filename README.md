@@ -2,7 +2,7 @@
     <img src="./Public/imageboy.png" width="128" alt="" />
 </div>
 
-# image-random-api
+# Image Random API
 
 ## Setup
 
