@@ -1,5 +1,5 @@
 <div align="center" width="100%">
-    <img src="" width="128" alt="" />
+    <img src="./Public/imageboy.png" width="128" alt="" />
 </div>
 
 # image-random-api
